@@ -1,4 +1,4 @@
-# family_tree_generator
+# family tree generator
 * Our project aims to convert the data available from the electoral database into a computer readable format that can be easily stored in the database and later on used to find the family tree of an individual along with labeled relations.
 
 * Conversion of PDF into BSON using OCR (Optical Character Recognition) : As informed to us in the problem statement, we have collected the PDF files of details of people from the Electoral Roll PDF. The next step was to store the data from these PDF files into a database so that it can be fed into our algorithm to find the relationships of a particular individual. This task had to be automated as the PDF files had a huge number of entries and this could not be done manually.
