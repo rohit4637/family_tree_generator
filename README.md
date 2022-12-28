@@ -15,3 +15,5 @@
    - It provides details of an individual on the basis of their voter ID number.
    - It provides visualized data on the basis of the various states.
    - It provides the family tree of an individual along with the labeled relations.
+
+![Design Thinking Ideation Whiteboard in Green Red Yellow Basic Style](https://user-images.githubusercontent.com/83691645/209806296-0a695fb8-9feb-4eac-9606-99e4c390ab71.png)
